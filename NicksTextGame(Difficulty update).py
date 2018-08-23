@@ -143,7 +143,7 @@ if guess == number:
         print("Wow that was lucky! Or you're cheating!")
     if tries >= 8:
         print("Took you long enough!")
-leave = input("Press enter to exit.\n: ")
+leave = input("This game was made by Nicholaus Whites!\nPress enter to exit.\n: ")
 if leave == "y":
     exit(222)
 else:
