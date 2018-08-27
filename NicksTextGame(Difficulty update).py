@@ -9,7 +9,8 @@ maxtries = 15
 triesleft = 15
 
 uname = input("Hello, What is your username?\n: ")
-
+if uname == "whois":
+    print("This game was made by Nicholaus Whites nichoauswhites@gmail.com !")
 if uname == "nick":
     print("download pycharm!")
 if uname == "Hello":
