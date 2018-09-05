@@ -1,4 +1,9 @@
 #!/usr/bin/env python3
+# Made by destro
+# email nicholauswhites@gmail.com
+# 9/5/17
+#
+
 
 import random
 import os
