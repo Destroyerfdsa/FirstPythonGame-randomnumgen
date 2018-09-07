@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
-# Made by destro
-# email nicholauswhites@gmail.com
-# 9/5/17
-#
+##<Made by destro>
+## <email destroyerasdfdev@gmail.com>
+## <Project name: "Random Number Game">
+## <9/5/17>
+
 
 
 import random
